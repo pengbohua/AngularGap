@@ -1,0 +1,4 @@
+timm
+torch
+torchvision
+ConfigArgParse==1.4.1
