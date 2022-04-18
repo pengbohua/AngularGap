@@ -1,4 +1,4 @@
-#Angular Gap
+# Angular Gap
 Pytorch implementation of the Angular Gap as a image difficulty measurement.
 ## Difficulty estimation
 ```shell
