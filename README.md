@@ -1,5 +1,5 @@
 # Angular Gap
-Pytorch implementation of the Angular Gap as a image difficulty measurement.
+Pytorch implementation of the Angular Gap as an image difficulty measurement.
 ## Difficulty estimation
 ```shell
 python main.py --dst cifar10 --arch resnet18
