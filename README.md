@@ -17,7 +17,7 @@ cd DeepDA
 bash run.sh
 ```
 ## Video
-[Presentation]()
+[Presentation](https://files.atypon.com/acm/f7197189de64e2075eb0a2c2d1eee630)
 
 If you make use of this code in your work, please cite the following paper:
 @article{peng2022angular,
