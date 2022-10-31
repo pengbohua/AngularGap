@@ -1,5 +1,5 @@
 # Angular Gap
-This is the code necessary to run experiments described in the ACM MM'22 paper [AngularGap](https://arxiv.org/abs/2207.08525)
+This is the code necessary to run experiments described in the ACM MM'22 paper [Paper](https://arxiv.org/abs/2207.08525)
 ## Requirements
 All the required packages can be installed by running `pip install -r requirements.txt`.
 ## Difficulty estimation
@@ -17,7 +17,7 @@ cd DeepDA
 bash run.sh
 ```
 ## Video
-[Presentation](https://files.atypon.com/acm/f7197189de64e2075eb0a2c2d1eee630)
+[Presentation](https://files.atypon.com/acm/f7197189de64e2075eb0a2c2d1eee630)[Slides](https://github.com/pengbohua/AngularGap/blob/main/AngularGapPre.pdf)
 
 If you make use of this code in your work, please cite the following paper:
 @article{peng2022angular,
