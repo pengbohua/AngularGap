@@ -2,6 +2,11 @@
 This is the code necessary to run experiments described in the ACM MM'22 paper [Paper](https://arxiv.org/abs/2207.08525)
 ## Requirements
 All the required packages can be installed by running `pip install -r requirements.txt`.
+
+Or pull our domain adaptation docker image and run experiments with 
+```
+docker pull marvinpeng2022/da-testbed
+```
 ## Difficulty estimation
 ```shell
 python main.py --dst cifar10 --arch resnet18
